@@ -10,7 +10,8 @@ Welcome to my RTL Design Portfolio. This repository contains a curated set of RT
 The repository contains:
 - `verilog_code_files` – RTL modules  
 - `testbench_files` – Testbench  
-- `specifications.pdf` – Module theory and Simulation results  
+- `specifications.pdf` – Module theory and Simulation results      [📄 View specifications.pdf](./specifications.pdf)
+
 - `README.md` – Description
 
 ---
